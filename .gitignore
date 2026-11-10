@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.sqlite3*
+*.db
+*.log
+verified-run-id.txt
+restart-test-run.txt
+main.before-*.py
